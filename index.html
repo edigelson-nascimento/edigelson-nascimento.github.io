@@ -449,10 +449,12 @@ text-align: left;
 <div class="creditos">
   
 <center><img src="./logo.png" alt="ed" width="30px" height="30px"/></center>
-  <h4>Copyright © 2024 by e7dge.</h4></div>
+  <h4>Copyright © 2022 - <span id="currentYear"></span> by e7dge.</h4></div>
   
  </footer>
- 
+    <script>
+        document.getElementById('currentYear').textContent = new Date().getFullYear();
+    </script>
   </body>
 
  </html>
