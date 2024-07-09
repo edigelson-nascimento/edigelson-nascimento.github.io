@@ -200,6 +200,7 @@ a {
   h1 {
     font-size: 12px;
     display: flex;
+    text-aligh: left;
     justify-content: center;
     align-items: center;
   }
