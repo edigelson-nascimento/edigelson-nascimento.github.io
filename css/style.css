@@ -201,7 +201,7 @@ a {
     font-size: 12px;
     display: flex;
     text-aligh: left;
-    justify-content: center;
+    justify-content: left;
     align-items: center;
   }
 
