@@ -58,7 +58,7 @@ Se você está procurando um programador ou um gestor de tráfego comprometido e
 ## Créditos
 ![Logo](./img/logo.png)
 
-&copy; 2022 by Edigelson Nascimento.**
+&copy; 2022 by Edigelson Nascimento.
 - **Este site foi desenvolvido com ❤️ por Edigelson Nascimento**
 
 ## Como Utilizar
