@@ -1,6 +1,6 @@
 # Portfólio
 
-Bem-vindo ao meu portfólio online! Aqui você encontrará informações sobre mim, minhas habilidades, educação, projetos e conquistas.
+Bem-vindo ao meu portfólio! Aqui você encontrará informações sobre mim, minhas habilidades, educação, projetos e conquistas.
 
 ## Descrição
 
