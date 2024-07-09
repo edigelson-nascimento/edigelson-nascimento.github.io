@@ -4,7 +4,7 @@ Bem-vindo ao meu portfólio online! Aqui você encontrará informações sobre m
 
 ## Descrição
 
-Sou Edigelson (ed), um desenvolvedor Front-End em Camaçari-BA. Sou apaixonado por tecnologia e estou sempre em busca de aprender mais sobre as últimas tendências e desenvolvimentos na área. Recentemente, completei o Programa ONE e tenho trabalhado para aprimorar minhas habilidades em programação.
+Sou Edigelson (ed), um desenvolvedor Front-End de Camaçari-BA. Sou apaixonado por tecnologia e estou sempre em busca de aprender mais sobre as últimas tendências e desenvolvimentos na área. Recentemente, completei o Programa ONE e tenho trabalhado para aprimorar minhas habilidades em programação.
 
 Além disso, também tenho experiência em marketing digital, atuando como gestor de tráfego e utilizando plataformas como Google Ads e Facebook Ads.
 
