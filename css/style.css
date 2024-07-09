@@ -19,6 +19,7 @@ h1 {
   display: flex;
   justify-content: left;
   align-items: left;
+  text-aligh: left;
   font-family: 'Montserrat', sans-serif;
 }
 
