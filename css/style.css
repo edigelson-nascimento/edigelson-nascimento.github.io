@@ -177,7 +177,6 @@ a {
 .social-link img {
   width: 27px; /* Tamanho dos ícones */
   height: 27px;
-  border-radius: 50%; /* Deixa os ícones redondos */
 }
 
 @media screen and (max-width: 480px) {
