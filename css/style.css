@@ -163,6 +163,23 @@ a {
   color: red;
 }
 
+.redessociais {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px; /* Espaçamento entre os ícones */
+}
+
+.social-link {
+  display: block; /* Transforma o link em um bloco para ocupar o espaço do ícone */
+}
+
+.social-link img {
+  width: 40px; /* Tamanho dos ícones */
+  height: 40px;
+  border-radius: 50%; /* Deixa os ícones redondos */
+}
+
 @media screen and (max-width: 480px) {
   body {
     background: #102018;
