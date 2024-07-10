@@ -172,6 +172,7 @@ a {
 
 .social-link {
   display: block; /* Transforma o link em um bloco para ocupar o espaço do ícone */
+  object-fit: cover; /* Garante que a imagem preencha completamente o espaço sem distorcer */
 }
 
 .social-link img {
