@@ -177,7 +177,7 @@ a {
 .social-link img {
   width: 27px; /* Tamanho dos ícones */
   height: 27px;
-  object-fit: cover; /* Garante que a imagem preencha completamente o espaço sem distorcer */
+  object-fit: contain; /* Garante que a imagem preencha completamente o espaço sem distorcer */
 }
 
 @media screen and (max-width: 480px) {
