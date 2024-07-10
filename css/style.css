@@ -172,12 +172,12 @@ a {
 
 .social-link {
   display: block; /* Transforma o link em um bloco para ocupar o espaço do ícone */
-  object-fit: cover; /* Garante que a imagem preencha completamente o espaço sem distorcer */
 }
 
 .social-link img {
   width: 27px; /* Tamanho dos ícones */
   height: 27px;
+  object-fit: cover; /* Garante que a imagem preencha completamente o espaço sem distorcer */
 }
 
 @media screen and (max-width: 480px) {
