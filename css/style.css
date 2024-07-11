@@ -175,8 +175,8 @@ a {
 }
 
 .social-link img {
-  width: 27px; /* Tamanho dos ícones */
-  height: 27px;
+  width: 38px; /* Tamanho dos ícones */
+  height: 38px;
   object-fit: contain; /* Garante que a imagem preencha completamente o espaço sem distorcer */
 }
 
