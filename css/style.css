@@ -180,6 +180,23 @@ a {
   object-fit: contain; /* Garante que a imagem preencha completamente o espaço sem distorcer */
 }
 
+/* Estilo do botão Curriculum Vitae */
+.cv a {
+  display: inline-block;
+  background-color: #4CAF50; /* Cor de fundo verde */
+  color: white; /* Cor do texto */
+  padding: 10px 20px; /* Espaçamento interno */
+  text-align: center; /* Centralizar texto */
+  text-decoration: none; /* Remover sublinhado */
+  font-size: 16px; /* Tamanho da fonte */
+  border-radius: 5px; /* Bordas arredondadas */
+  transition: background-color 0.3s ease; /* Transição suave da cor de fundo */
+}
+
+.cv a:hover {
+  background-color: #45a049; /* Cor de fundo ao passar o mouse */
+}
+
 @media screen and (max-width: 480px) {
   body {
     background: #102018;
